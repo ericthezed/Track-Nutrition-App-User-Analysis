@@ -1,4 +1,4 @@
 # Track-Nutrition-App-User-Analysis
 Analysis of User Engagement with Nutritionix Track Nutrition Mobile App
 
-This analysis was a deep dive of user metrics for a nutrition app called Track, which allows users to input their food consumptipn in order to track their daily 
+This analysis was a deep dive of user metrics for a nutrition app called Track, which allows users to input their food consumption in order to track their daily calorie intake. It also allows users to input their exercise (type and duration) and track their weight over time. I examined how users' interaction with the app (usage, calorie consumption, weight, and exercise) changed over time, as well as how it differed among various types of users (e.g., age groups, gender, etc.). By generating insights about how different users engage with the app and how such engagement changes over time, the content development team would be more effective at producing content that is better targeted towards the habits and preferences of their users, thus helping to increase both traffic and engagement.
